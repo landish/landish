@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/vanishgg"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=social"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -34,6 +34,8 @@
     <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>Socials</i>
