@@ -43,6 +43,6 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Fira%20Code&quote=a person that is a virgin, is better than a person thats black&color=7b00ff&bg=000000">
+  <br>
+  <strong>"Code is like humor. When you have to explain it, it’s bad."</strong>
 </p>
-
