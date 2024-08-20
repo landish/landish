@@ -30,10 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vanishgg&bg_color=00000000&color=7b00ff&line=5c64f4&point=ffffff&area=true&hide_border=true">
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/1246814091499278357" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
   </a>
