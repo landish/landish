@@ -21,4 +21,8 @@
   <a href="https://github.com/VatosV2?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20my%20Repos-24292e?style=for-the-badge&logo=Github"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool...)](https://discord.com/users/1246814091499278357)
+[![Discord Presence](https:/idleMessage=Probably%20coding%20a%20tool...)](/lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&https://discord.com/users/1246814091499278357)
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
+</p>
