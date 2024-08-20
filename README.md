@@ -5,10 +5,8 @@
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5c64f4&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+VanishGG;A+Passionate+Developer+%26+Tool+Creator;Always+learning+and+building+new+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+Virtual;I'm+a+Python+Developer;I+Make+Tools+Such+As:;Vanish+Raider;Vanish+Flooder" alt="Typing SVG">
 </p>
 
 ---
@@ -17,10 +15,14 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=vanishgg&amp;title_color=5c64f4&amp;text_color=7b00ff&amp;show_icons=true&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=5c64f4&amp;hide_title=true&amp;count_private=true">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishgg&layout=compact&title_color=5c64f4&text_color=7b00ff&bg_color=00000000&hide_border=true&count_private=true" />
+</p>
+
 ---
 
 <p align="center">
-  <strong>i am the owner of <a href="vanishnet.netlify.app" target="_blank">Vanish Tools</a></strong>
+  <strong>i am the owner of <a href="https://vanishnet.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Vanish%20Tools-5c64f4?style=for-the-badge&logo=netlify&logoColor=white"></a></strong>
 </p>
 
 <p align="center">
@@ -28,7 +30,19 @@
 </p>
 
 <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vanishgg&bg_color=00000000&color=7b00ff&line=5c64f4&point=ffffff&area=true&hide_border=true">
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/1246814091499278357" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
   </a>
+</p>
+
+<p align="center">
+  <i>Let's connect!</i>
+  <br>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
