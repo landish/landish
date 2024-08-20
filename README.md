@@ -1,4 +1,4 @@
-<h1 align="center">What's up, I'm virtual..</h1>
+<h1 align="center">What's up..</h1>
 
 <p align="center">
   <a href="https://github.com/vanishgg"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=social"></a>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+Virtual;I'm+a+Python+Developer;I+Make+Tools+Such+As:;Vanish+Raider;Vanish+Flooder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+Virtual;I'm+a+Python+Developer;I+Made+Tools+Such+As:;Vanish+Raider;Vanish+Flooder;vanish+selfbot" alt="Typing SVG">
 </p>
 
 ---
