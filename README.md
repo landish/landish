@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <strong>i am the owner of <a href="https://vanishnet.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Vanish%20Tools-5c64f4?style=for-the-badge&logo=netlify&logoColor=white"></a></strong>
+  <strong>Owner of <a href="https://Vanishnet.netlify.app/" target="_blank">Vanish Tools</a></strong>
 </p>
 
 <p align="center">
@@ -40,9 +40,8 @@
 </p>
 
 <p align="center">
-  <i>Let's connect!</i>
+  <i>Socials</i>
   <br>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/Mv4YQAK8F2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
+  <a href="https://youtube.com/@bugged"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white"></a>
 </p>
