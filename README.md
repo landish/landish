@@ -1,5 +1,5 @@
 <p align="center">
-  <a style="font-size: 60px; font-weight: 800; font-family: 'Fira Code', monospace; color: #8c52ff;">Virtual</a>
+  # **Virtual**
 </p>
 
 <p align="center">
