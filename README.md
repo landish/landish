@@ -1,5 +1,6 @@
 <p align="center">
-  <a>Virtual</a><a>
+  <a style="font-size: 60px; font-weight: 800; font-family: 'Fira Code', monospace; color: #8c52ff;">Virtual</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vanishgg?tab=followers"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=flat&color=8c52ff"></a>
