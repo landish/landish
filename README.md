@@ -44,7 +44,4 @@
   <a href="https://youtube.com/@bugged"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <br>
-  <strong>"Code is like humor. When you have to explain it, it’s bad. - idk who said that tbh."</strong>
-</p>
+![Profile Views](https://testcounter-five.vercel.app/counter.svg)
