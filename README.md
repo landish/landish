@@ -1,8 +1,4 @@
 <p align="center">
-  # **Virtual**
-</p>
-
-<p align="center">
   <a href="https://github.com/vanishgg?tab=followers"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=flat&color=8c52ff"></a>
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
 
