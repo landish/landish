@@ -24,22 +24,14 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/1246814091499278357" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
-  </a>
-</p>
 
 ---
 
-<p align="center">
+<div align="center">
+  <hr>
   <i>Socials</i>
   <br>
   <a href="https://discord.gg/Mv4YQAK8F2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
   <a href="https://youtube.com/@kqfo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white&color=8c52ff"></a>
-</p>
-
-
-<p align="center">
-  <img src="https://testcounter-five.vercel.app/counter.svg" alt="Profile Views">
-</p>
+  <br>
+</div>
