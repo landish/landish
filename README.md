@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
 </div>
 
--
+--
 
 <div align="center">
   <i>Socials</i>
