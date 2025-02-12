@@ -25,6 +25,7 @@
 </div>
 
 <div align="center">
+  <div style="border-top: 2px solid #8c52ff; width: 80%; margin: 10px 0;"></div>
   <i>Socials</i>
   <br><br>
   <a href="https://discord.gg/Mv4YQAK8F2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
