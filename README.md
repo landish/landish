@@ -24,10 +24,8 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
 </div>
 
---
-
 <div align="center">
-  <i>Socials</i>
+  <h2>Socials</h2>
   <br>
   <a href="https://discord.gg/Mv4YQAK8F2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
   <a href="https://youtube.com/@kqfo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white&color=8c52ff"></a>
