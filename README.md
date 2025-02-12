@@ -19,13 +19,10 @@
   </table>
 </p>
 
-
-<p align="center">
+<div align="center">
+  <h2>Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
-</p>
-
-
----
+</div>
 
 <div align="center">
   <hr>
