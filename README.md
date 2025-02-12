@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/?username=vanishgg&amp;title_color=5c64f4&amp;text_color=7b00ff&amp;show_icons=true&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=5c64f4&amp;hide_title=true&amp;count_private=true" width="400">
