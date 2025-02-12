@@ -25,10 +25,12 @@
 </div>
 
 <div align="center">
+ <div>
   <i>Socials</i>
   <br><br>
   <a href="https://discord.gg/Mv4YQAK8F2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
   <a href="https://youtube.com/@kqfo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white&color=8c52ff"></a>
   <br><br>
   <small>"The best way to predict the future is to invent it." - Alan Kay</small>
+  <div></div>
 </div>
