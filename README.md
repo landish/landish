@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/vanishgg/count.svg)
+
 <p align="center">
   <a href="https://discord.com/users/1246814091499278357" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool">
