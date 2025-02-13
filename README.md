@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/vanishgg/count.svg)
 
 <p align="center">
   <a href="https://discord.com/users/1246814091499278357" target="_blank">
