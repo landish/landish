@@ -21,15 +21,9 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-</div>
-
-<details>
-<summary>Open</summary>
-<br>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
 </div>
-</details>
+
 
 <div align="center">
   <hr>
